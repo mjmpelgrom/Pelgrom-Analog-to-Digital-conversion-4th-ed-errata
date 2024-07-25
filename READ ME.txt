@@ -1,0 +1,5 @@
+ READ ME
+
+This is a site where you can find updates and errata for
+the book: 'Analog-to-Digital conversion' by Marcel JM Pelgrom
+Springer, ISBN 9783030908072
